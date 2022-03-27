@@ -76,8 +76,6 @@ function init() {
 async function run() {
     const model = getModel();
     init();
-    
-    //init();
     //alert("Training is done, try classifying your drawings!");
 }
 
